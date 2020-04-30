@@ -1,2 +1,2 @@
 # super-nova
-Collection of code.
+Collection of projects showcasing knowledgebase.
